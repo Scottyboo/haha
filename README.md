@@ -12,6 +12,12 @@ function getHaha(x){
       [e('x.'+x)]})('new function();',eval,'length')
     +((eval,eval)+'TROY')[eval,'function();'.length]);
 }
+```
 
+Usage
+====
+
+```
 var haha = getHaha();
+alert(haha);
 ```
