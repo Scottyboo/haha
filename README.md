@@ -25,4 +25,4 @@ alert(haha);
 Demo
 ====
 
-http://jsfiddle.net/mWJts/
+http://jsfiddle.net/mWJts/3/
