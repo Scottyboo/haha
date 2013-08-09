@@ -21,3 +21,8 @@ Usage
 var haha = getHaha();
 alert(haha);
 ```
+
+Demo
+====
+
+http://jsfiddle.net/mWJts/
